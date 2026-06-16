@@ -1,4 +1,4 @@
-How to run:
+# How to run:
 
 type on command line
 1. flutter pub get
